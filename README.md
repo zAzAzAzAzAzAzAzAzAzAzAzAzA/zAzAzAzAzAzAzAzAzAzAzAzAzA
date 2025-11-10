@@ -1,4 +1,4 @@
-# Hey 👋, I’m Aes Ramadhan  
+# Hey 👋, I’m Aes 
 
 Independent developer exploring algorithms, systems, and open-source design.  
 I focus on precision, performance, and building things that just work.
